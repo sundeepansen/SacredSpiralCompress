@@ -25,4 +25,4 @@ License: [MIT License]
 
 For more details, please refer to the documentation and examples provided.
 
-Feel free to fork, star, and contribute to the SacredSpiralCompress project. Together, let's revolutionize data compression with the power of sacred geometry!
+Feel free to fork, star, and contribute to the SacredSpiralCompress project. 
